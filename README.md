@@ -8,4 +8,4 @@
 
 📫 Como entrar em contato comigo: telefone celular (18) 991677898 / Email: gabrielfukao@hotmail.com
 
-⚡ Curiosidade: Sou uma pessoa dedicada e focada, sempre procurando aprimorar meus conhecimentos na aréa tecnológica. Apaixonado por programação, back-enn principalmente.
+⚡ Curiosidade: Sou uma pessoa dedicada e focada, sempre procurando aprimorar meus conhecimentos na aréa tecnológica. Apaixonado por programação, back-end principalmente.
