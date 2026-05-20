@@ -45,17 +45,8 @@ Me chamo gabriel Fukao, tenho 25 anos e sou natural do Pereira Barreto/SP. Atual
     title="Java" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>
-           
-  />          
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>        
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -64,22 +55,8 @@ Me chamo gabriel Fukao, tenho 25 anos e sou natural do Pereira Barreto/SP. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="PHP" 
@@ -115,4 +92,4 @@ Me chamo gabriel Fukao, tenho 25 anos e sou natural do Pereira Barreto/SP. Atual
 />
 
 <br/>
-<br/>
+
