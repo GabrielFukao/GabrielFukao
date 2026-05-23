@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo gabriel Fukao, tenho 25 anos e sou natural do Pereira Barreto/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e inovação. Busco aprimorar meus conhecimentos cada dia mais, em busca da minha primeira oportunidade na carreira da tecnologia da informação.
+Me chamo Gabriel Fukao, tenho 25 anos e sou natural do Pereira Barreto/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e inovação. Busco aprimorar meus conhecimentos cada dia mais, em busca da minha primeira oportunidade na carreira da tecnologia da informação.
 
 
 ### 🤖 Linguagens e Tecnologias
